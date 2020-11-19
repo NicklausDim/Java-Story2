@@ -76,7 +76,7 @@ function question5left(){
         if (question6 == '81288') {
             question6correct();
         } else {
-            alert('Thats not the correct passowrd. But MIRICLE! You remembered the full date! She was born on the 8th of December of 1988! So 81288 maybe?');
+            alert('Thats not the correct passowrd. But MIRICLE! You remembered the full date! She was born on the 8th of December of 1988!');
             let question6 = prompt('What is the password? (5 digits,no symbols, numbers only)');
             if (question6 == '81288') {
                 question6correct();
