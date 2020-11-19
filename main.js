@@ -4,7 +4,7 @@ alert('Welcome ' + username + '! Hope you are ready for a bumpy ride!');
 
 alert('It all started when prince Vitalij asked your help decorating the castle for his birthday party');
 
-alert('You and your kitty companion Cake we responsible for the balloons. Until the ice queen interrupted you and tried to kidnap the prince!');
+alert('You and your kitty companion Cake were responsible for the balloons. Until the Ice Queen interrupted you and tried to kidnap the prince!');
 
 alert('You managed to hide into the closet in fear but now there is a decision to make.');
 
@@ -62,7 +62,7 @@ function question6correct(){
 }
 
 function question5left(){
-    alert('You chose the left door. You start noticing the door and notice a keypad with numbers on it. Is that it? Is the prince in there?');
+    alert('You chose the left one. You start noticing the door and notice a keypad with numbers on it. Is that it? Is the prince in there?');
     alert('You notice right away that the password is compiled by 5 digits. You vaguely remember an article you read on the Ice Queen years ago...');
     alert('Apparently she was born in 1988. Somewhere in december to be exact. Could this be a clue?');
     
